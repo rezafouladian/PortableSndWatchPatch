@@ -12,4 +12,4 @@ vasmm68k_mot -Fbin -o SndWatchPatchOriginal.ptch -nosym SndWatchPatchOriginal.s 
 vasmm68k_mot -Fbin -o SndWatchPatchFixed.ptch -nosym SndWatchPatchFixed.s -sc -showopt
 ```
 
-Replace the machine code in PTCH ID 3 of the Portable Control Panel 1.3 using ResEdit or Resourcerer.
+Replace the machine code in PTCH ID 3 of the Portable Control Panel 1.3 using ResEdit or Resorcerer.
